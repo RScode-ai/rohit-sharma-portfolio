@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#fff8f0"/>
+  <path d="M760 0h440v630H760z" fill="#800020"/>
+  <path d="M0 0h1200v14H0z" fill="#d4c4a8"/>
+  <circle cx="980" cy="315" r="188" fill="none" stroke="#d4c4a8" stroke-opacity=".28" stroke-width="2"/>
+  <circle cx="980" cy="315" r="150" fill="none" stroke="#fff8f0" stroke-opacity=".12" stroke-width="1"/>
+  <rect x="866" y="201" width="228" height="228" rx="54" fill="#fff8f0"/>
+  <text x="980" y="350" fill="#800020" font-family="Arial,sans-serif" font-size="108" font-weight="700" letter-spacing="-9" text-anchor="middle">RS</text>
+  <rect x="88" y="96" width="54" height="6" rx="3" fill="#d2691e"/>
+  <text x="88" y="151" fill="#806d63" font-family="Arial,sans-serif" font-size="22" font-weight="700" letter-spacing="5">PORTFOLIO</text>
+  <text x="82" y="282" fill="#800020" font-family="Arial,sans-serif" font-size="100" font-weight="700" letter-spacing="-5">ROHIT</text>
+  <text x="82" y="390" fill="#800020" font-family="Arial,sans-serif" font-size="100" font-weight="700" letter-spacing="-5">SHARMA</text>
+  <text x="88" y="456" fill="#694b4d" font-family="Arial,sans-serif" font-size="29" font-weight="600">Software Engineer  ·  Java Developer</text>
+  <rect x="88" y="518" width="12" height="12" rx="6" fill="#668064"/>
+  <text x="116" y="531" fill="#806d63" font-family="Arial,sans-serif" font-size="20">Building reliable backend and full-stack applications</text>
+</svg>
