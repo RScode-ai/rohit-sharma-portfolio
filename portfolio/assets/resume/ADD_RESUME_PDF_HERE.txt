@@ -1,4 +1,0 @@
-Add your resume PDF to this folder and name it:
-rohit-sharma-resume.pdf
-
-The View Resume button in the Skills section opens this PDF in a new browser tab.
