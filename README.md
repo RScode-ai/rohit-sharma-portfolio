@@ -21,7 +21,7 @@ Connect the GitHub repository and leave the base directory and build command bla
 - GitHub: `https://github.com/RScode-ai`
 - LinkedIn: `https://www.linkedin.com/in/rohit-sharma-java`
 - Email: `rohitsharma05824@gmail.com`
-- The Skills section's View Resume button opens `assets/resume/rohit-sharma-resume.pdf` in a new browser tab. The certificate section and form-based contact flow are omitted until their details or EmailJS configuration are available. The Contact section currently uses a working `mailto:` link.
+- The Skills section's View Resume button opens `assets/resume/rohit-sharma-resume2.pdf` in a new browser tab. The certificate section and form-based contact flow are omitted until their details or EmailJS configuration are available. The Contact section currently uses a working `mailto:` link.
 - Add verified repository/demo URLs for individual projects in `data.js` when available.
 
 ## Notes
